@@ -21,7 +21,7 @@ The editor reads and writes the exact JSON structure required by the mod — fil
 
 **[Download latest release (.exe)](../../releases/latest)**
 
-No installation required. Just download and run `ExodusDayZForge.exe`.
+No installation required. Just download and run `ExodusCraftingEditor.exe`.
 
 ---
 
@@ -42,7 +42,7 @@ No installation required. Just download and run `ExodusDayZForge.exe`.
 
 ### 1. Start the tool
 
-Double-click `ExodusDayZForge.exe`.
+Double-click `ExodusCraftingEditor.exe`.
 
 ### 2. Open or create a file
 
@@ -114,7 +114,7 @@ The library is stored in `forge_library.json` next to the `.exe` — it persists
 
 | File | Purpose |
 |---|---|
-| `ExodusDayZForge.exe` | The application |
+| `ExodusCraftingEditor.exe` | The application |
 | `forge_settings.json` | Language preference |
 | `forge_library.json` | Your classname library (auto-created on first save) |
 
@@ -202,7 +202,7 @@ python hp_crafter_editor.py
 
 ```powershell
 pip install pyinstaller
-python -m PyInstaller --onefile --windowed --name "ExodusDayZForge" hp_crafter_editor.py
+python -m PyInstaller --onefile --windowed --name "ExodusCraftingEditor" hp_crafter_editor.py
 ```
 
 The finished `.exe` will be in the `dist` folder. The `build` folder and `.spec` file can be deleted afterwards.
