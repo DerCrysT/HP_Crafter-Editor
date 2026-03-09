@@ -3,7 +3,7 @@
 """
 Exodus DayZ Forge — HP_Crafter Recipe Editor
 Developed by CrysT | Version 1.0
-Open Source — https://github.com
+Open Source — https://github.com/DerCrysT/HP_Crafter-Editor
 """
 
 import sys
