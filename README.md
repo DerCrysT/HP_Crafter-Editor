@@ -221,3 +221,8 @@ If you improve the tool, a credit or pull request is always appreciated.
 Exodus DayZ Forge — Developed by CrysT  
 Built for the DayZ community. Not affiliated with Bohemia Interactive.
 
+<img width="1920" height="1017" alt="ECTCustomization" src="https://github.com/user-attachments/assets/c9f1d6fc-b01b-4cf9-9909-5cab63b25ffc" />
+<img width="1920" height="1019" alt="ECTCategories" src="https://github.com/user-attachments/assets/be46f98d-152d-40b8-93f6-4ca6210986ab" />
+<img width="1920" height="1015" alt="ECTRecepies1" src="https://github.com/user-attachments/assets/a037e6be-a31a-40aa-af18-5b64e785bf0c" />
+<img width="1920" height="1017" alt="ECTJsonExplorer" src="https://github.com/user-attachments/assets/a67777ab-f94d-402d-adcd-0d5917fa5e1a" />
+<img width="1920" height="1019" alt="ECTClassnameLibary" src="https://github.com/user-attachments/assets/acddecb4-9f09-4bf9-bce0-77179250da5f" />
